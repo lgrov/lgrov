@@ -21,7 +21,7 @@ I'm interested in:
 [![Mandelbrot set](https://github-readme-stats.vercel.app/api/pin/?username=lgrov\&repo=image-generation-of-the-Mandelbrot-set\&theme=dark)](https://github.com/leog314/image-generation-of-the-Mandelbrot-set)
 [![Go](https://github-readme-stats.vercel.app/api/pin/?username=lgrov\&repo=Go_for_ti\&theme=dark)](https://github.com/leog314/Go_for_ti)
 
-<img src="https://github.com/leog314/XWiki/blob/main/build/media/wiki_animation.gif?raw=true" width="400"> <img src="https://github.com/leog314/image-generation-of-the-Mandelbrot-set/blob/main/images/mandelbrot%403d.png?raw=true" width="400">
+<img src="https://github.com/lgrov/XWiki/blob/main/build/media/wiki_animation.gif?raw=true" width="400"> <img src="https://github.com/lgrov/image-generation-of-the-Mandelbrot-set/blob/main/images/mandelbrot%403d.png?raw=true" width="400">
 
 ---
 
