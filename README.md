@@ -16,10 +16,10 @@ I'm interested in:
 
 ## 💻 Some Projects
 
-[![XWiki](https://github-readme-stats.vercel.app/api/pin/?username=lgrov\&repo=XWiki\&theme=dark)](https://github.com/leog314/XWiki)
-[![Universal DQ-Learning](https://github-readme-stats.vercel.app/api/pin/?username=lgrov\&repo=universal-DQ-Learning\&theme=dark)](https://github.com/leog314/universal-DQ-Learning)
-[![Mandelbrot set](https://github-readme-stats.vercel.app/api/pin/?username=lgrov\&repo=image-generation-of-the-Mandelbrot-set\&theme=dark)](https://github.com/leog314/image-generation-of-the-Mandelbrot-set)
-[![Go](https://github-readme-stats.vercel.app/api/pin/?username=lgrov\&repo=Go_for_ti\&theme=dark)](https://github.com/leog314/Go_for_ti)
+[![XWiki](https://github-stats-extended.vercel.app/api/pin/?username=lgrov\&repo=XWiki\&theme=dark)](https://github.com/leog314/XWiki)
+[![Universal DQ-Learning](https://github-stats-extended.vercel.app/api/pin/?username=lgrov\&repo=universal-DQ-Learning\&theme=dark)](https://github.com/leog314/universal-DQ-Learning)
+[![Mandelbrot set](https://github-stats-extended.vercel.app/api/pin/?username=lgrov\&repo=image-generation-of-the-Mandelbrot-set\&theme=dark)](https://github.com/leog314/image-generation-of-the-Mandelbrot-set)
+[![Go](https://github-stats-extended.vercel.app/api/pin/?username=lgrov\&repo=Go_for_ti\&theme=dark)](https://github.com/leog314/Go_for_ti)
 
 <img src="https://github.com/lgrov/XWiki/blob/main/build/media/wiki_animation.gif?raw=true" width="400"> <img src="https://github.com/lgrov/image-generation-of-the-Mandelbrot-set/blob/main/images/mandelbrot%403d.png?raw=true" width="400">
 
@@ -29,9 +29,9 @@ I'm interested in:
 
 > I don’t upload many things I make, but here are some numbers anyway:
 
-![](https://github-readme-stats.vercel.app/api?username=lgrov\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lgrov\&theme=dark\&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lgrov\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+![](https://github-stats-extended.vercel.app/api?username=lgrov\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)<br/>
+![](https://nirzak-streak-stats.koyeb.app/?user=lgrov\&theme=dark\&hide_border=false)<br/>
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=lgrov\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
 
 [## 📝 Some More Facts About Me * Big fan of **Chess** ♟️ and **Go** ⚫ — I love the mix of strategy and creativity in both * I also enjoy playing the **piano** 🎹]: #
 
